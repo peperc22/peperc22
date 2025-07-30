@@ -2,7 +2,6 @@
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peperc22&show_icons=true&locale=en&layout=compact&theme=radical" alt="peperc22" /></p>
 
- 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=peperc22" alt="GitHub Streak" /></a>
-
  <br />
+ 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=peperc22)](https://git.io/streak-stats)
